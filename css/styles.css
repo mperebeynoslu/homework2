@@ -57,7 +57,7 @@ text-align: left;
     color: #404bbf;
 }
 
-.section1{
+.section-one{
     background-color: #2E2F42;
 }
 
@@ -104,11 +104,11 @@ text-align: left;
 color: #434455;
 }
 
-.section3{
+.section-three{
     background-color: #F4F4FD;
 }
 
-.title2{
+.title-two{
 font-size: 36px;
 font-weight: 700;
 line-height: 1.11;
@@ -140,7 +140,7 @@ text-align: center;
 color: #434455;
 }
 
-.title3{
+/*.title3{
 font-size: 36px;
 font-weight: 700;
 line-height: 1.11;
@@ -148,9 +148,9 @@ text-transform: capitalize;
 letter-spacing: 0.02em;
 text-align: center;
 color: #2E2F42;
-}
+}*/
 
-.card2{
+.card-two{
 background-color: #FFFFFF;
 }
 
@@ -176,7 +176,7 @@ footer{
     background-color: #2E2F42;
 }
 
-.logo2{
+.logo-two{
     text-decoration: none;
     font-family: "Raleway", sans-serif;
     color: #4d5ae5;
@@ -186,7 +186,7 @@ line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 }
-.span2{
+.span-two{
     color: #f4f4fd;
     text-transform: uppercase;   
 }
