@@ -7,9 +7,6 @@ body{
 ul{
     list-style-type: none;
 }
-header{
-    background-color: #E7E9FC;
-}
 
 .logo{
     font-family: "Raleway", sans-serif;
@@ -35,7 +32,7 @@ span{
     color: #2E2F42;
 font-size: 16px;
 font-weight: 500;
-line-height: 24px;
+line-height: 1.5;
 letter-spacing: 0.02em;
 text-align: left;
 }
@@ -49,7 +46,7 @@ address{
     color: #434455;
 font-size: 16px;
 font-weight: 400;
-line-height: 24px;
+line-height: 1.5;
 letter-spacing: 0.02em;
 text-align: left;
 }
@@ -76,7 +73,7 @@ font-family: "Roboto", sans-serif;
 color: white;
 font-size: 16px;
 font-weight: 500;
-line-height: 24px;
+line-height: 1.5;
 letter-spacing: 0.04em;
 text-align: left;
 background-color: #4D5AE5;
@@ -89,7 +86,7 @@ cursor: pointer;
 .nazva{
 font-size: 20px;
 font-weight: 500;
-line-height: 24px;
+line-height: 1.2;
 letter-spacing: 0.02em;
 text-align: left;
 color: #2E2F42;
@@ -98,7 +95,7 @@ color: #2E2F42;
 .text{
 font-size: 16px;
 font-weight: 400;
-line-height: 24px;
+line-height: 1.5;
 letter-spacing: 0.02em;
 text-align: left;
 color: #434455;
@@ -125,7 +122,7 @@ background-color: #FFFFFF;
 .name{
 font-size: 20px;
 font-weight: 500;
-line-height: 24px;
+line-height: 1.2;
 letter-spacing: 0.02em;
 text-align: center;
 color: #2E2F42;
@@ -134,7 +131,7 @@ color: #2E2F42;
 .profession{
 font-size: 16px;
 font-weight: 400;
-line-height: 24px;
+line-height: 1.5;
 letter-spacing: 0.02em;
 text-align: center;
 color: #434455;
@@ -157,7 +154,7 @@ background-color: #FFFFFF;
 .name-app{
 font-size: 20px;
 font-weight: 500;
-line-height: 24px;
+line-height: 1.2;
 letter-spacing: 0.02em;
 text-align: left;
 color: #2E2F42;
@@ -166,7 +163,7 @@ color: #2E2F42;
 .app{
 font-size: 16px;
 font-weight: 400;
-line-height: 24px;
+line-height: 1.5;
 letter-spacing: 0.02em;
 text-align: left;
 color: #434455;
@@ -194,7 +191,7 @@ text-transform: uppercase;
 .description{
 font-size: 16px;
 font-weight: 400;
-line-height: 24px;
+line-height: 1.5;
 letter-spacing: 0.02em;
 text-align: left;
 color: #F4F4FD;
